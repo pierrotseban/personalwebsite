@@ -7,7 +7,7 @@ Nous pensons que notre culture est embourbée dans une confusion, dans un piège
 
 Le libre-arbitre – en tout cas la version qu’on veut tuer – c’est quoi ? C’est le triangle [être libre-être responsable-échapper aux déterminisme].
 
-![image info](./triangle.png)
+![image info](../triangle.png)
 
 C’est lier entre elles ces trois idées. C’est penser que le fait d’être libre, en sorte à être responsable et qu’on puisse nous imputer nos actes – notamment nous accuser ou nous féliciter – a quelque chose à voir avec le fait d’échapper aux déterminismes – qu’on aurait pu ne pas le faire, que d’autres font ou feraient autrement, que c’était pas fatal… Et donc, par exemple, que si on cherche à tout expliquer, comme en socio, on va tout excuser, on va faire disparaitre les raisons de punir et d’accuser – *et que ça prouve que la socio a des limites* ! Ou quand on pense que puisqu’il y a des exceptions à une généralisation sociologique (*tous les gens qui ont grandi dans la misère deviennent sont pas criminels !*) ça veut dire qu’on peut échapper au déterminisme.
 
